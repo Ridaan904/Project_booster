@@ -1,0 +1,23 @@
+h3{
+    color: blue;
+    font-weight: 100;
+}
+canvas{
+    border-width: 15px;
+    border-style: solid;
+    border-color: black;
+}
+.copy_right_footer{
+    width: 100%;
+    color: darkred;
+    position: fixed;
+    bottom: 0;
+    background-color: azure;
+    text-align: center;
+    line-height: 3;
+    font-size: 25px;
+}
+#accuracy{
+    color: brown;
+    background-color: orange;
+}
